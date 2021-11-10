@@ -1,0 +1,26 @@
+body {
+
+margin:0;
+padding:0;
+background-color:#BA5624;
+text-align: CENTER;
+color:white;
+font-family: 'Heebo', sans-serif;
+
+}
+
+
+header picture img {
+
+width:100%;
+
+}
+
+iframe {
+
+display:block;
+margin:0 auto;
+
+}
+
+media {}
